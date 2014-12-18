@@ -14,7 +14,7 @@ The data consists of measured and calculated motion variables representing obser
 tidy_data_set
 
 ### Variables
-For each record it is provided (see Format and structure below):
+For each record it is provided (see Format and structure below) variables as follows. Units are SI (i.e. meter, second, radians) - acceleration in m/s2, velocity m/s, angular velocity radians/s and frequency Hz.
 
 * An identifier (number) of the subject who carried out the experiment.
     + Reference Subject
